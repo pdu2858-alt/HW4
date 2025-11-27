@@ -1,3 +1,5 @@
+DEMO網頁：https://wws3xp4oatvwy92jvgegjc.streamlit.app/
+
 專題摘要 (Abstract)
 隨著環境保護意識的提升，精確的垃圾分類已成為資源回收的關鍵環節，然而傳統的人工辨識方式既耗時又容易產生誤判。本專案旨在開發一套基於深度學習（Deep Learning）的自動化垃圾影像分類系統，以輔助解決日常回收分類難題。
 
